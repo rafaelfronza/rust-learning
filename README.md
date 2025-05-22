@@ -1,2 +1,2 @@
-# rust-learning
-This is a repository for learning and playing with Rust
+# rust-essentials
+Linkedin Course
