@@ -1,0 +1,1 @@
+/home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/11_generic_types/target/debug/generic_types: /home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/11_generic_types/src/main.rs

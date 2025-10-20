@@ -1,0 +1,1 @@
+/home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/12_implement_traits/target/debug/implement_traits: /home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/12_implement_traits/src/main.rs

@@ -1,0 +1,1 @@
+/home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/input_and_output/target/debug/input_and_output: /home/rfronza/projects/rust/learning/linkedin_courses/rust_essentials/input_and_output/src/main.rs
